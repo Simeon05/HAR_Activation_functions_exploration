@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But allow these two files
+!dissertation.ipynb
+!WISDM_ar_v1.1_raw.txt
+
+# Allow .gitignore itself
+!.gitignore
+
+
