@@ -2,10 +2,9 @@
 *
 
 # But allow these two files
-!dissertation.ipynb
+!HAR_Activation_Functions_Dissertation.ipynb
 !WISDM_ar_v1.1_raw.txt
 
 # Allow .gitignore itself
 !.gitignore
-
 
